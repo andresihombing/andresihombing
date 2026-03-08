@@ -13,7 +13,7 @@ const highlights = [
   {
     icon: MapPin,
     title: "Location",
-    value: "Tapanuli Utara, Sumatera Utara",
+    value: "Jakarta, Indonesia",
   },
   {
     icon: GraduationCap,

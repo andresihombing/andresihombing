@@ -168,10 +168,10 @@ export default function Hero() {
                 />
               </a>
               <a
-                href="/cv-andre-sihombing.pdf"
+                href="https://drive.google.com/uc?export=download&id=1_uPRiCUOuZpICHGRzoEoEfP1R4RwNvAP"
                 download
                 className="flex items-center gap-2 px-7 py-3.5 bg-white/5 border border-white/10 text-white font-semibold rounded-2xl hover:bg-white/10 hover:border-orange-500/30 transition-all duration-300 hover:-translate-y-1"
-              >
+                >
                 <Download size={16} />
                 Download CV
               </a>
